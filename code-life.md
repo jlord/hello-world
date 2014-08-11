@@ -9,10 +9,10 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 Finding answers.
 
 - [Mozilla Developer Network](http://www.mdn.com)
-- [stackoverflow](stackoverflow.com)
-- [JS for Cats](www.jsforcats.com)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
-- [NodeSchool](www.nodeschool.io)
+- [stackoverflow](http://stackoverflow.com)
+- [JS for Cats](http://www.jsforcats.com)
+- [Eloquent JavaScript](http://http://eloquentjavascript.net/)
+- [NodeSchool](http://www.nodeschool.io)
 
 ## Dot Files
 
