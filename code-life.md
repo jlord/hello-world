@@ -31,6 +31,7 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 - [WTF Forms](http://wtfforms.com/) by @mdo
 - [WTF CSS](http://wtfhtmlcss.com/) by @mdo 
 - [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/) by @WilliamLeeks
+- [Beautiful Open](http://beautifulopen.com/) source sites by @trek
 
 ## Dot Files
 
