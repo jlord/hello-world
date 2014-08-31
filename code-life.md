@@ -10,16 +10,19 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 
 - [Mozilla Developer Network](http://www.mdn.com)
 - [stackoverflow](http://stackoverflow.com)
-- [JS for Cats](http://www.jsforcats.com)
-- [Eloquent JavaScript](http://http://eloquentjavascript.net/)
-- [NodeSchool](http://www.nodeschool.io)
 
 ### Tutorials / Guides
+
+**JS**
+
+- [JS for Cats](http://www.jsforcats.com)
+- [Eloquent JavaScript](http://http://eloquentjavascript.net/)
 
 **Node**
 
 - [Node for Beginners](https://github.com/rockbot/node-for-beginners) by @rockbot
 - [Art of Node](https://github.com/maxogden/art-of-node) by @maxogden
+- [NodeSchool](http://www.nodeschool.io)
 
 **Front end**
 
