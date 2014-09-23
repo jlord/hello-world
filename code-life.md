@@ -30,6 +30,10 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 - [Learn CSS Layout](http://learnlayout.com/) by @boucoup
 - [Screencasts by mrmrs](http://designbytyping.com/)
 
+**Assets**
+
+- [Unsplash](https://unsplash.com/) Free high-res stock photos
+
 ## Assets
 
 - [WTF Forms](http://wtfforms.com/) by @mdo
