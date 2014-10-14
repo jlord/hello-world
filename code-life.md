@@ -8,7 +8,7 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 
 ### Finding answers.
 
-- [Mozilla Developer Network](http://www.mdn.com)
+- [Mozilla Developer Network](http://developer.mozilla.com)
 - [stackoverflow](http://stackoverflow.com)
 
 ### Tutorials / Guides
