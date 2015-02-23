@@ -16,7 +16,7 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 **JS**
 
 - [JS for Cats](http://www.jsforcats.com)
-- [Eloquent JavaScript](http://http://eloquentjavascript.net/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 **Node**
 
