@@ -16,6 +16,7 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 **Git/GitHub**
 
 - [Hello World Guide](http://guides.github.com/activities/hello-world)
+- [Git-it](http://jlord.github.io/git-it)
 
 **JS**
 
