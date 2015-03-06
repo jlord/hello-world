@@ -13,6 +13,10 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 
 ### Tutorials / Guides
 
+**Git/GitHub**
+
+- [Hello World Guide](http://guides.github.com/activities/hello-world)
+
 **JS**
 
 - [JS for Cats](http://www.jsforcats.com)
