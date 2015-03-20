@@ -2,7 +2,7 @@
 
 Getting work done.
 
-A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](https://github.com/jlord/hello-world.git).
+A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](http://jlord.us/hack-spots/).
 
 ## Resources
 
