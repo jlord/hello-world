@@ -34,6 +34,7 @@ A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](h
 - [HTML & CSS](http://learn.shayhowe.com/html-css/) by Shay Howe
 - [Learn CSS Layout](http://learnlayout.com/) by @boucoup
 - [Screencasts on design and front-end development](http://designbytyping.com/) by @mrmrs
+- [This is Markdown](http://thisismarkdown.com/) by @planetarycorp
 
 **Assets**
 
